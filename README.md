@@ -18,7 +18,7 @@ Custom Hooks
 Context API
 
 🚀 Getting Started
-Clone the repository:
+Clone the repository:https://github.com/alpnaP/react-interview-2025.git
 git clone
 Navigate to project:
 cd React-Machine-Coding-Round
