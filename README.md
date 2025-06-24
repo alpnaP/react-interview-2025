@@ -1,4 +1,3 @@
-# react-interview-2025
 
 ## React Coding Questions for Interview 2025 🚀
 
